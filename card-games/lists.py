@@ -4,6 +4,7 @@ Python list documentation: https://docs.python.org/3/tutorial/datastructures.htm
 """
 import math
 
+
 def get_rounds(number):
     """Create a list containing the current and next two round numbers.
 
